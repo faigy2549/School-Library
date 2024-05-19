@@ -2,8 +2,6 @@
 
 Welcome to the School Library Management System project! This project is built using Java, with a web interface, and uses a MySQL database for storing data. The system supports both admin and user roles, each with distinct features and capabilities. This README file will guide you through the setup, usage, and features of the project.
 
-![Dolphin](https://example.com/path-to-your-dolphin-image.jpg)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
